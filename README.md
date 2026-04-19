@@ -1,6 +1,5 @@
 # Flat-Channel Deficit-Gated Self-Healing Law
 
-
 <!-- HERO_ANIMATION:BEGIN -->
 ![Flat-channel deficit-gated self-healing lattice](images/self_healing_lattice.gif)
 
