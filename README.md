@@ -1,5 +1,12 @@
 # Flat-Channel Deficit-Gated Self-Healing Law
 
+
+<!-- HERO_ANIMATION:BEGIN -->
+![Flat-channel deficit-gated self-healing lattice](images/self_healing_lattice.gif)
+
+_Hero animation: **Flat-channel deficit-gated self-healing lattice**. [Download high-resolution MP4](images/self_healing_lattice.mp4)._
+<!-- HERO_ANIMATION:END -->
+
 TopEquations ID: `eq-flat-channel-deficit-gated-self-healing-law`
 
 Score: 93
